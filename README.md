@@ -10,6 +10,7 @@
 
   <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" align="right" width="25%"/>
 
+
 - I’m an **Advanced Technologies Engineering Student.**
     
 - **Diving Deep into Data's Abyss: Chronicles of an ML and AI Enthusiast's Journey!** 🌟
