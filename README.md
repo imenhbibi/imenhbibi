@@ -42,6 +42,7 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> </a>
 <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mqtt-hor.svg/768px-Mqtt-hor.svg.png" alt="MQTT" width="45" height="40"/> </a>
 </p>
+<hr>
 &nbsp;
 
 ## 📊 &nbsp;Stats
