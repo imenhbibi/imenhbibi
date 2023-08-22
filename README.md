@@ -23,7 +23,7 @@
 
 <h3 align="left">  My toolbox:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://pytorch.org/tutorials/_static/img/thumbnails/cropped/generic-pytorch-logo.png" alt="Pytorch" width="50" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://pytorch.org/tutorials/_static/img/thumbnails/cropped/generic-pytorch-logo.png" alt="Pytorch" width="50" height="60"/> </a> 
 <a href="https://rasa.com/" target="_blank" rel="noreferrer"> <img src="https://1.bp.blogspot.com/-5GFORrawTq4/X9gKNfXntJI/AAAAAAAAD4c/wZBwpmDJopwiYwNio3DsK1LJXz6cAk0qwCLcBGAsYHQ/s0/rasa%2Blogo.png" alt="rasa" width="90" height="65"/> </a> 
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/langfr-195px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
