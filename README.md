@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/habibi-imen-8b78b2216/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"width="58" height="30"/></a>
-    <a href="https://www.facebook.com/moramora.eva.3"><img src="https://pic.clubic.com/v1/images/1504188/raw.webp?fit=smartCrop&width=90&height=90&hash=5674af6e8c6ba820677bac847f3f843b44126b6f" width="50" height="30"/ ></a>
+    <a href="https://www.facebook.com/moramora.eva.3"><img src="https://pic.clubic.com/v1/images/1504188/raw.webp?fit=smartCrop&width=90&height=90&hash=5674af6e8c6ba820677bac847f3f843b44126b6f" width="45" height="30"/ ></a>
   </p>
 
   <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" align="right" width="25%"/>*
