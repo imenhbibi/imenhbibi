@@ -15,8 +15,6 @@
     
 - **Diving Deep into Data's Abyss: Chronicles of an ML and AI Enthusiast's Journey!** 🌟
 
-- 🔭 I’m currently looking for a **part-time job** 
-
 - 🌱I'm currently working on a **chatbot for interviews and user assistance within a web/mobile development society.** 🌟
 
 - 📫 How to reach me: **imen.habibi@enstab.ucar.tn** 🌟 **habibiilen454@gmail.com**
